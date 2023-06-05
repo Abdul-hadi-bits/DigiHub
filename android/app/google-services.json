@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "654945599005",
+    "firebase_url": "https://digihubs-9ff95-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "digihubs-9ff95",
+    "storage_bucket": "digihubs-9ff95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654945599005:android:1cd6eeacd499d6112c50f4",
+        "android_client_info": {
+          "package_name": "com.example.my_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654945599005-s3l93f9obmfd11mkuakm904m8im54oin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_project",
+            "certificate_hash": "2b2975779f6a3927eae2a8c2c6af08457fdab73b"
+          }
+        },
+        {
+          "client_id": "654945599005-v6f4so202b5c8ddn26f5em9jm2ln5rbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_project",
+            "certificate_hash": "994f2f4a707ea40672e7f348ac1485ad38a12779"
+          }
+        },
+        {
+          "client_id": "654945599005-eqqcicag57dv0vvgjv18nsssj758rk5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxRQBF5LRmUDuX5kS8JK9YRjVVpY88Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654945599005-eqqcicag57dv0vvgjv18nsssj758rk5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
