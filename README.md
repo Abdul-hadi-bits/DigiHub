@@ -1,6 +1,14 @@
-# my_project
+# About this Project
+a flutter project which provides capability such as 
+Task schedualing (with local notifications)
+Tracking daily expenses 
+Chatting (in progress)
+Settings (profile and app prefrences) 
 
-A new Flutter project.
+also includes 
+Authentication and Registeration ( phone number / email).
+
+
 
 ## Getting Started
 
