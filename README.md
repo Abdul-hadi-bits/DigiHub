@@ -1,9 +1,9 @@
 # About this Project
-a flutter project which provides capability such as 
-Task schedualing (with local notifications)
-Tracking daily expenses 
-Chatting (in progress)
-Settings (profile and app prefrences) 
+a flutter project which provides capability such as:
+Task schedualing (with local notifications).
+Tracking daily expenses (with graphs and history).
+Chatting (in progress).
+Settings (profile and app prefrences). 
 
 also includes 
 Authentication and Registeration ( phone number / email).
