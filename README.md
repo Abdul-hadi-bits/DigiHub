@@ -1,5 +1,5 @@
 # About this Project
-a flutter project which provides capability such as:
+a flutter project which provides capabilities such as:
 
 Task schedualing (with local notifications).
 
