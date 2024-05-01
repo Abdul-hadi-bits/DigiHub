@@ -13,6 +13,9 @@ Also includes:
 
 Authentication and Registeration ( phone number / email).
 
+built with bloc state management(mostly).
+also implemented bloc pattern (data layer, business-logic layer, presentation layer).
+
 # Preview
 https://mega.nz/folder/7GYxAS7I%23BUyNFQhjnHd1vMCSNEmEbg
 
