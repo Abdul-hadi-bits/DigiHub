@@ -7,7 +7,7 @@ Tracking daily expenses (with graphs and history).
 
 Chatting (notifications with firebase cloud messaging).
 
-Settings (profile and app prefrences). 
+Settings (profile, app prefrences, account settings). 
 
 Also includes:
 
