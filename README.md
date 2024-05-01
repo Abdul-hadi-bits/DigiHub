@@ -5,7 +5,7 @@ Task schedualing (with local notifications).
 
 Tracking daily expenses (with graphs and history).
 
-Chatting (in progress).
+Chatting (notifications with firebase cloud messaging).
 
 Settings (profile and app prefrences). 
 
