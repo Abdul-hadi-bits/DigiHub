@@ -816,7 +816,7 @@ class ChatBloc extends Bloc<ChatEvent, ChatState> {
     final headers = {
       'Content-Type': 'application/json',
       'Authorization':
-          'key=AAAAAPrKt2Q:APA91bGJGRK8ET8tCd6jnI0RWljv_yKFpqALDDYwsO75WzJIFA_jJ2qTJN0QrT4K1QBUyKeg-Qv-5_8u2-BGmlO4a2BkQYc3oAKDgVOEEtKaXgDgACWXhT8L9DSDrSj-I78BzZJNBcjd'
+          'key=Your_Key'
     };
     // 'key=YOUR_SERVER_KEY'
 
